@@ -1,0 +1,12 @@
+a.auth{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    background: lightgrey;
+    border: solid 1px dimgrey;
+    boeder-radius: 2px;
+    box-shadow: 0 -1px 7px rgba(0, 0, 0, 0.5) inset
+              , 0 1px 7px rgba(255, 255, 255, 1) inset;
+}
